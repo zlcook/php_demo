@@ -6,5 +6,6 @@ wamp=Windows + apache2.2.1 +mysql5.5.20 +php5.3.10
 
 #开发工具
 ZendStudio12.5.1
-配置连接http://blog.csdn.net/imxiangzi/article/details/46533811
+破解:http://blog.csdn.net/wwkms/article/details/51679156
+配置:http://blog.csdn.net/imxiangzi/article/details/46533811
 
